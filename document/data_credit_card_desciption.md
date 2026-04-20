@@ -21,4 +21,6 @@ It tracks the behavior of 1,000 customers across 800 merchants over a two-year p
 - Merchant: merch_lat, merch_long.
 
 ## Merchant Info:
-merchant: Name of the business. category: Type of expense (e.g., groceries, travel, online shopping, etc.). Why this matters: Unlike simpler datasets that only show generic, anonymized PCA-transformed numbers (like the famous European card dataset), this file provides rich, human-readable attributes. This makes it excellent for training models that look for complex geographical and categorical patterns in fraud detection!
+- merchant: Name of the business. 
+- category: Type of expense (e.g., groceries, travel, online shopping, etc.). 
+- Why this matters: Unlike simpler datasets that only show generic, anonymized PCA-transformed numbers (like the famous European card dataset), this file provides rich, human-readable attributes. This makes it excellent for training models that look for complex geographical and categorical patterns in fraud detection!
